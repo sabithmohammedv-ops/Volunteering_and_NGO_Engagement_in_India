@@ -175,7 +175,3 @@ The full research report is included in this repository as:
 This research report is submitted as part of the internship task assigned by InAmigos Foundation (IAF). The project uses AI-assisted research and analysis to explore volunteering and NGO engagement in India.
 
 ------------------------------------------------------------------------
-
-*This README summarises the attached research report. Please consult the
-full PDF and original references for context and verification of
-individual statistics.*
